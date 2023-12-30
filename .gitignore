@@ -7,3 +7,6 @@ node_modules
 # Ignore files related to API keys
 .env
 
+#Ignore all dist and cache files
+dist
+.cache
